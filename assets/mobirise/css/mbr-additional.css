@@ -1795,7 +1795,7 @@ strong {
 .cid-tBooVhXNCR {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/belegungsplan-2000x967.webp");
+  background: linear-gradient(to bottom, #fc7942 0 40%, #ffffff 40% 100%);
 }
 @media (max-width: 1024px) {
   .cid-tBooVhXNCR .container-fluid {
