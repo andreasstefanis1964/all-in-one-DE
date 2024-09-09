@@ -830,6 +830,9 @@ strong {
 .cid-tBom1Dnp1f .navbar-dropdown {
   position: relative !important;
 }
+.cid-tBom1Dnp1f .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-tBom1Dnp1f .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -931,8 +934,7 @@ strong {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -1229,6 +1231,9 @@ strong {
   }
   .cid-tBom1Dnp1f .navbar-short .navbar-brand {
     min-height: 75px !important;
+  }
+  .cid-tBom1Dnp1f .navbar.opened {
+    background: rgba(255, 255, 255, 0) !important;
   }
   .cid-tBom1Dnp1f .navbar.navbar-short {
     background-color: #ffffff !important;
@@ -2376,6 +2381,9 @@ strong {
 .cid-unTC0hBsUm .navbar-dropdown {
   position: relative !important;
 }
+.cid-unTC0hBsUm .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-unTC0hBsUm .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -2477,8 +2485,7 @@ strong {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -2775,6 +2782,9 @@ strong {
   }
   .cid-unTC0hBsUm .navbar-short .navbar-brand {
     min-height: 75px !important;
+  }
+  .cid-unTC0hBsUm .navbar.opened {
+    background: rgba(255, 255, 255, 0) !important;
   }
   .cid-unTC0hBsUm .navbar.navbar-short {
     background-color: #ffffff !important;
@@ -3637,6 +3647,9 @@ strong {
 .cid-unTBXUasgh .navbar-dropdown {
   position: relative !important;
 }
+.cid-unTBXUasgh .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-unTBXUasgh .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -3738,8 +3751,7 @@ strong {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -4036,6 +4048,9 @@ strong {
   }
   .cid-unTBXUasgh .navbar-short .navbar-brand {
     min-height: 75px !important;
+  }
+  .cid-unTBXUasgh .navbar.opened {
+    background: rgba(255, 255, 255, 0) !important;
   }
   .cid-unTBXUasgh .navbar.navbar-short {
     background-color: #ffffff !important;
@@ -4485,6 +4500,9 @@ strong {
 .cid-unTBSIWpsb .navbar-dropdown {
   position: relative !important;
 }
+.cid-unTBSIWpsb .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-unTBSIWpsb .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -4586,8 +4604,7 @@ strong {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -4884,6 +4901,9 @@ strong {
   }
   .cid-unTBSIWpsb .navbar-short .navbar-brand {
     min-height: 75px !important;
+  }
+  .cid-unTBSIWpsb .navbar.opened {
+    background: rgba(255, 255, 255, 0) !important;
   }
   .cid-unTBSIWpsb .navbar.navbar-short {
     background-color: #ffffff !important;
@@ -5411,6 +5431,9 @@ strong {
 .cid-unTC4P5ree .navbar-dropdown {
   position: relative !important;
 }
+.cid-unTC4P5ree .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-unTC4P5ree .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -5512,8 +5535,7 @@ strong {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0);
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -5810,6 +5832,9 @@ strong {
   }
   .cid-unTC4P5ree .navbar-short .navbar-brand {
     min-height: 75px !important;
+  }
+  .cid-unTC4P5ree .navbar.opened {
+    background: rgba(255, 255, 255, 0) !important;
   }
   .cid-unTC4P5ree .navbar.navbar-short {
     background-color: #ffffff !important;
