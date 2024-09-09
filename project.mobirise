@@ -60,7 +60,7 @@
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "how55muhjb",
+    "mbrsiteDomain": "p1h7jzkb7e",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -76,15 +76,15 @@
       "underlineLink": true,
       "opacityOverlay": "0",
       "bgOpacity": "100",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "AΠΟΔΟΧΗ",
+      "text": "Auf dieser Website nutzen wir Cookies und vergleichbare Funktionen zur Verarbeitung von Endgeräteinformationen und personenbezogenen Daten. Die Verarbeitung dient der Einbindung von Inhalten, externen Diensten und Elementen Dritter, der statistischen Analyse/Messung, personalisierten Werbung sowie der Einbindung sozialer Medien. Diese Einwilligung ist freiwillig, für die Nutzung unserer Website nicht erforderlich und kann jederzeit über das Icon links unten widerrufen werden. Sie können hier unsere Datenschutzrichtlinie lesen <a href='privacy.html'>Datenschutzrichtlinie</a>.",
+      "textButton": "VERSTANDEN",
       "rejectText": "REJECT"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "Sie bestätigen hiermit, dass Sie unsere Datenschutzrichtlinie gelesen haben <a href='policy.html'>Datenschutz & Impressum</a>."
     },
     "mcSmartCart": {
       "currency": "EUR",
