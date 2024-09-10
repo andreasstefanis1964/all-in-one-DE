@@ -3704,7 +3704,7 @@ strong {
 }
 .cid-unTBXUasgh .dropdown-menu,
 .cid-unTBXUasgh .navbar.opened {
-  background: #fff1e2 !important;
+  background: #ffffff !important;
 }
 .cid-unTBXUasgh .nav-item:focus,
 .cid-unTBXUasgh .nav-link:focus {
@@ -3739,7 +3739,7 @@ strong {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #fff1e2;
+  background: #ffffff;
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -3881,7 +3881,7 @@ strong {
   padding: 0.667em 1.667em;
 }
 .cid-unTBXUasgh .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fff1e2;
+  background: #ffffff;
 }
 .cid-unTBXUasgh .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -3991,7 +3991,7 @@ strong {
   }
 }
 .cid-unTBXUasgh .navbar-short {
-  background-color: #fff1e2 !important;
+  background-color: #ffffff !important;
 }
 .cid-unTBXUasgh .navbar-short .container,
 .cid-unTBXUasgh .navbar-short .container-fluid {
@@ -4038,7 +4038,7 @@ strong {
     min-height: 75px !important;
   }
   .cid-unTBXUasgh .navbar.navbar-short {
-    background-color: #fff1e2 !important;
+    background-color: #ffffff !important;
   }
   .cid-unTBXUasgh .navbar-collapse {
     position: relative;
@@ -4067,18 +4067,18 @@ strong {
     transform: translate(-50%, 0);
     width: 100vw;
     height: 100vw;
-    background: #fff1e2;
+    background: #ffffff;
     z-index: 4;
     transition: 0.1s all;
   }
 }
-.cid-u2TFey1x42 {
-  background-image: url("../../../assets/images/all-in-one-channel-manager-dashboard.webp");
+.cid-unZS8SSRhD {
+  background-color: #fff1e2;
 }
-.cid-u2TFey1x42 .mbr-fallback-image.disabled {
+.cid-unZS8SSRhD .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u2TFey1x42 .mbr-fallback-image {
+.cid-unZS8SSRhD .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4087,58 +4087,80 @@ strong {
   position: absolute;
   top: 0;
 }
-.cid-u2TFey1x42 .col-title {
-  padding-top: 5.5%;
+.cid-unZS8SSRhD .content-wrapper {
+  display: flex;
+  position: relative;
+  padding: 60px;
 }
-@media (max-width: 991px) {
-  .cid-u2TFey1x42 .col-title {
-    padding-top: 0;
+@media (max-width: 992px) {
+  .cid-unZS8SSRhD .content-wrapper {
+    padding: 30px 20px;
   }
 }
-.cid-u2TFey1x42 .col-text {
-  padding-top: 100px;
+.cid-unZS8SSRhD .content-wrapper .image-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
-@media (min-width: 1200px) {
-  .cid-u2TFey1x42 .col-text {
-    padding-left: 110px !important;
+.cid-unZS8SSRhD .content-wrapper .image-wrap img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cid-unZS8SSRhD .content-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+  background-image: linear-gradient(0.251turn, #ff9466 37%, transparent 100%);
+  pointer-events: none;
+  z-index: 1;
+}
+.cid-unZS8SSRhD .content-wrapper .content-wrap {
+  position: relative;
+  z-index: 2;
+  display: inline-block;
+  width: 50%;
+}
+@media (max-width: 992px) {
+  .cid-unZS8SSRhD .content-wrapper .content-wrap {
+    width: 100%;
   }
 }
-@media (max-width: 1199px) {
-  .cid-u2TFey1x42 .col-text {
-    padding-top: 70px;
-  }
+.cid-unZS8SSRhD .content-wrapper .content-wrap .desc-wrapper .mbr-desc {
+  display: inline-block;
+  background-color: #fff1e2;
+  padding: 8px 16px;
+  margin-bottom: 32px;
 }
-@media (max-width: 991px) {
-  .cid-u2TFey1x42 .col-text {
-    padding-top: 20px;
-  }
+.cid-unZS8SSRhD .content-wrapper .content-wrap .mbr-section-title {
+  margin-bottom: 32px;
 }
-.cid-u2TFey1x42 .mbr-section-title {
+.cid-unZS8SSRhD .content-wrapper .content-wrap .mbr-text {
   margin-bottom: 0;
-  color: #232323;
 }
-.cid-u2TFey1x42 .mbr-section-subtitle {
-  margin-top: 24px;
-  color: #131313;
+.cid-unZS8SSRhD .content-wrapper .content-wrap .mbr-section-btn {
+  margin-top: 64px;
 }
-@media (max-width: 991px) {
-  .cid-u2TFey1x42 .mbr-section-subtitle {
-    margin-top: 16px;
-  }
+.cid-unZS8SSRhD .content-wrapper .content-wrap .mbr-section-btn .btn {
+  margin-bottom: 0;
 }
-.cid-u2TFey1x42 .mbr-text {
-  color: #131313;
+.cid-unZS8SSRhD .mbr-section-title {
+  color: #404349;
 }
-.cid-u2TFey1x42 .mbr-section-btn {
-  margin-top: 50px;
+.cid-unZS8SSRhD .mbr-text {
+  color: #404349;
 }
-@media (max-width: 1199px) {
-  .cid-u2TFey1x42 .mbr-section-btn {
-    margin-top: 14px;
-  }
-}
-.cid-u2TFey1x42 .mbr-section-btn .btn-white:hover {
-  color: #7dabd2 !important;
+.cid-unZS8SSRhD .mbr-desc {
+  color: #b19a7c;
 }
 .cid-unRCN1scSU {
   padding-top: 5rem;
@@ -4482,14 +4504,8 @@ strong {
 .cid-u2TFezW5pH .mbr-text {
   color: #131313;
 }
-.cid-unTBSIWpsb {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-unTBSIWpsb nav.navbar {
-  position: fixed;
+.cid-unTBSIWpsb .navbar-dropdown {
+  position: relative !important;
 }
 .cid-unTBSIWpsb .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -4808,7 +4824,6 @@ strong {
 }
 .cid-unTBSIWpsb .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-unTBSIWpsb a.nav-link {
   display: flex;
@@ -5440,9 +5455,6 @@ strong {
 .cid-unTC4P5ree .navbar-dropdown {
   position: relative !important;
 }
-.cid-unTC4P5ree .navbar-dropdown {
-  position: absolute !important;
-}
 .cid-unTC4P5ree .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -5544,7 +5556,8 @@ strong {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
   border: none !important;
   box-shadow: none !important;
   overflow: hidden;
@@ -5841,9 +5854,6 @@ strong {
   }
   .cid-unTC4P5ree .navbar-short .navbar-brand {
     min-height: 75px !important;
-  }
-  .cid-unTC4P5ree .navbar.opened {
-    background: rgba(255, 255, 255, 0) !important;
   }
   .cid-unTC4P5ree .navbar.navbar-short {
     background-color: #ffffff !important;
