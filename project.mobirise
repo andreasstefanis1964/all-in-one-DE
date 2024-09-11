@@ -57,7 +57,7 @@
     ],
     "imageResize": true,
     "publishChangesOnly": false,
-    "uniqCompNum": 240,
+    "uniqCompNum": 241,
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -4586,10 +4586,88 @@
           },
           "_name": "apeople2",
           "_sourceTheme": "calmm5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"people1 calmm5\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n        <input type=\"range\" inline title=\"Items\" name=\"items\" min=\"1\" max=\"5\" value=\"5\" step=\"1\">\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#131313\" condition=\"showBorder\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#fafafa\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container-fluid':fullWidth, 'container-small': !fullWidth}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Einige der Portale, welche wir Ihnen anbieten...</b></h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">\n                Orci eu lobortis elementum nibh tellus molestie.\n                Enim lobortis scelerisque fermentum dui faucibus in ornare quam.\n            </h4>\n        </div>\n        <div class=\"row card-row\">\n            <div class=\"card\">\n                <a href=\"https://google.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/google-logo-icon-png-transparent-background_large-576x576.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 1\">\n                <a href=\"https://hostelworld.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/hostelworld-e1518787912154-576x267.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 2\">\n                <a href=\"https://hotelbeds.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/hotelbeds_logo_pos-576x119.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 3\">\n                <a href=\"https://hrs.de\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/hrs_ghs_rgb-576x173.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 4\">\n                <a href=\"https://www.mrandmrssmith.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/smiith-300x198.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"people1 calmm5\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n        <input type=\"range\" inline title=\"Items\" name=\"items\" min=\"1\" max=\"5\" value=\"5\" step=\"1\">\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#131313\" condition=\"showBorder\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#fafafa\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container-fluid':fullWidth, 'container-small': !fullWidth}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Einige der Portale, welche wir Ihnen anbieten...</b></h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">\n                Orci eu lobortis elementum nibh tellus molestie.\n                Enim lobortis scelerisque fermentum dui faucibus in ornare quam.\n            </h4>\n        </div>\n        <div class=\"row card-row\">\n            <div class=\"card\">\n                <a href=\"https://google.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/google-hotel-ads-partner-2-576x315.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 1\">\n                <a href=\"https://hostelworld.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/hostelworld-e1518787912154-576x267.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 2\">\n                <a href=\"https://hotelbeds.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/hotelbeds_logo_pos-576x119.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 3\">\n                <a href=\"https://hrs.de\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/hrs_ghs_rgb-576x173.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 4\">\n                <a href=\"https://www.mrandmrssmith.com/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/smiith-300x198.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "apeople2-6n",
           "_isUserblock": true,
           "_cid": "uo66djMrKA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".mbr-section-head": {
+              "margin-bottom": "50px",
+              "@media (max-width: 991px)": {
+                "margin-bottom": "20px"
+              }
+            },
+            ".mbr-section-title": {
+              "color": "#131313",
+              "a": {
+                "pointer-events": "none"
+              }
+            },
+            ".mbr-section-subtitle": {
+              "margin-top": "12px",
+              "color": "#131313"
+            },
+            ".card-row": {
+              "justify-content": "space-between",
+              "align-items": "center",
+              "flex-wrap": "nowrap",
+              "margin": "0 !important",
+              "& when (@showBorder)": {
+                "padding-bottom": "40px",
+                "border-bottom": "2px solid @borderColor"
+              },
+              "@media (max-width: 991px)": {
+                "justify-content": "center",
+                "row-gap": "16px",
+                "flex-wrap": "wrap"
+              }
+            },
+            ".card": {
+              "transition": "all 0.3s",
+              "height": "fit-content",
+              "padding": "0 !important",
+              "opacity": "0.5",
+              "margin-bottom": "1rem",
+              "max-width": "20%",
+              "width": "fit-content",
+              "@media (max-width: 991px)": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "min-height": "50px",
+                "max-width": "(100% / 3)",
+                "margin": "0 20px"
+              },
+              "@media (max-width: 767px)": {
+                "max-width": "(100% / 2)"
+              },
+              "@media (max-width: 575px)": {
+                "max-width": "100%"
+              },
+              "&:hover": {
+                "opacity": "1"
+              },
+              "img": {
+                "max-width": "100%"
+              }
+            }
+          },
+          "_name": "apeople2",
+          "_sourceTheme": "calmm5",
+          "_customHTML": "<section data-bs-version=\"5.1\" class=\"people1 calmm5\" group=\"Clients\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Subtitle\" name=\"showSubTitle\">\n        <input type=\"range\" inline title=\"Items\" name=\"items\" min=\"1\" max=\"5\" value=\"5\" step=\"1\">\n        <input type=\"checkbox\" title=\"Border\" name=\"showBorder\">\n        <input type=\"color\" title=\"Border Color\" name=\"borderColor\" value=\"#131313\" condition=\"showBorder\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#fafafa\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container-fluid':fullWidth, 'container-small': !fullWidth}\">\n        <div class=\"mbr-section-head\">\n            <h3 class=\"mbr-section-title mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\">\n                <b>Einige der Portale, welche wir Ihnen anbieten...</b></h3>\n            <h4 class=\"mbr-section-subtitle mbr-fonts-style align-center mb-0\" mbr-theme-style=\"display-7\" mbr-if=\"showSubTitle\" data-app-selector=\".mbr-section-subtitle\">\n                Orci eu lobortis elementum nibh tellus molestie.\n                Enim lobortis scelerisque fermentum dui faucibus in ornare quam.\n            </h4>\n        </div>\n        <div class=\"row card-row\">\n            <div class=\"card\">\n                <a href=\"https://www.tablethotels.com/de\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/tablet-logo-445x110.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 1\">\n                <a href=\"https://hopper.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/logo%20-%20coral%20-%20vertical-576x492.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 2\">\n                <a href=\"https://hoteltonight.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/bildschirmfoto%202024-09-11%20um%2022.06.03-462x72.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 3\">\n                <a href=\"https://vrbo.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/vrbo-329x153.png\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n            <div class=\"card\" mbr-if=\"items > 4\">\n                <a href=\"https://www.roibos.com\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/roibos-520x97.jpg\" alt=\"Mobirise Website Builder\"></a>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "apeople2-6o",
+          "_isUserblock": true,
+          "_cid": "uo67HRhaFB",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
