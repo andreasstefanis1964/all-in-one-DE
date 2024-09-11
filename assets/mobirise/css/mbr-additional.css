@@ -827,14 +827,8 @@ strong {
 .mbr-section-btn .btn-black:hover {
   box-shadow: none !important;
 }
-.cid-tBom1Dnp1f {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-tBom1Dnp1f nav.navbar {
-  position: fixed;
+.cid-tBom1Dnp1f .navbar-dropdown {
+  position: relative !important;
 }
 .cid-tBom1Dnp1f .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1153,7 +1147,6 @@ strong {
 }
 .cid-tBom1Dnp1f .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-tBom1Dnp1f a.nav-link {
   display: flex;
@@ -2380,14 +2373,8 @@ strong {
 .cid-tBop9AZP21 .mbr-text {
   color: #131313;
 }
-.cid-unTC0hBsUm {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-unTC0hBsUm nav.navbar {
-  position: fixed;
+.cid-unTC0hBsUm .navbar-dropdown {
+  position: relative !important;
 }
 .cid-unTC0hBsUm .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -2706,7 +2693,6 @@ strong {
 }
 .cid-unTC0hBsUm .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-unTC0hBsUm a.nav-link {
   display: flex;
@@ -3670,14 +3656,8 @@ strong {
 .cid-u2SNbXdsqh .mbr-text {
   color: #131313;
 }
-.cid-unTBXUasgh {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-unTBXUasgh nav.navbar {
-  position: fixed;
+.cid-unTBXUasgh .navbar-dropdown {
+  position: relative !important;
 }
 .cid-unTBXUasgh .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -3996,7 +3976,6 @@ strong {
 }
 .cid-unTBXUasgh .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-unTBXUasgh a.nav-link {
   display: flex;
@@ -4547,14 +4526,8 @@ strong {
 .cid-u2TFezW5pH .mbr-text {
   color: #131313;
 }
-.cid-unTBSIWpsb {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
-}
-.cid-unTBSIWpsb nav.navbar {
-  position: fixed;
+.cid-unTBSIWpsb .navbar-dropdown {
+  position: relative !important;
 }
 .cid-unTBSIWpsb .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -4873,7 +4846,6 @@ strong {
 }
 .cid-unTBSIWpsb .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-unTBSIWpsb a.nav-link {
   display: flex;
