@@ -5210,6 +5210,109 @@ strong {
   color: #303030;
   margin-top: 10px;
 }
+.cid-uo5Yy7QHMB {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/background1.webp");
+}
+.cid-uo5Yy7QHMB .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uo5Yy7QHMB .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uo5Yy7QHMB .items-wrapper {
+  justify-content: center;
+}
+.cid-uo5Yy7QHMB .card-wrapper {
+  position: relative;
+  overflow: hidden;
+  padding: 218px 24px;
+}
+@media (max-width: 992px) {
+  .cid-uo5Yy7QHMB .card-wrapper {
+    padding: 60px 16px;
+  }
+}
+.cid-uo5Yy7QHMB .card-wrapper .image-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.cid-uo5Yy7QHMB .card-wrapper .image-wrapper img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cid-uo5Yy7QHMB .card-wrapper::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, #f96e47, #fcbcaa);
+  opacity: .8;
+  pointer-events: none;
+  z-index: 1;
+}
+.cid-uo5Yy7QHMB .card-wrapper .content-wrap {
+  position: relative;
+  z-index: 1;
+}
+.cid-uo5Yy7QHMB .card-wrapper .content-wrap .mbr-desc {
+  margin-bottom: 32px;
+}
+@media (max-width: 992px) {
+  .cid-uo5Yy7QHMB .card-wrapper .content-wrap .mbr-desc {
+    margin-bottom: 24px;
+  }
+}
+.cid-uo5Yy7QHMB .card-wrapper .content-wrap .mbr-section-title {
+  margin-bottom: 24px;
+}
+.cid-uo5Yy7QHMB .card-wrapper .content-wrap .text-wrapper .mbr-text {
+  display: inline-block;
+  width: 50%;
+  margin-bottom: 22px;
+}
+@media (max-width: 992px) {
+  .cid-uo5Yy7QHMB .card-wrapper .content-wrap .text-wrapper .mbr-text {
+    width: 100%;
+    margin-bottom: 16px;
+  }
+}
+.cid-uo5Yy7QHMB .mbr-desc {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-uo5Yy7QHMB .mbr-section-title {
+  color: #ffffff;
+}
+.cid-uo5Yy7QHMB .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-uo5Yy7QHMB .mbr-text,
+.cid-uo5Yy7QHMB .text-wrapper {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-uo5Yy7QHMB .mbr-section-title,
+.cid-uo5Yy7QHMB .mbr-section-btn {
+  text-align: center;
+}
 .cid-u2X2HXrZVl {
   padding-top: 0rem;
   padding-bottom: 0rem;
