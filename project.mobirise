@@ -61,7 +61,7 @@
     "versionPublish": "5.9.11",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "mbrsiteDomain": "g70urvwld4",
+    "mbrsiteDomain": "u62xarnqvh",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -124,7 +124,7 @@
       "popupProduct": true
     },
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "site_lang": "el"
+    "site_lang": "de"
   },
   "pages": {
     "index.html": {
